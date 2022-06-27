@@ -1,8 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 :root {
-    --blue-1: #3C429E;
-    --blue-2: #4C52AD;
-    --yellow-1: #FAC742;
+   
+    --blue-1: #503273;
+    --blue-2: #5055a1;
+    --yellow-1: #e9a700;
     --white: #FFF;
     --grey-1: #EDEDED;
     --shadow-dark: rgba(0,0,0,0.3);
@@ -136,13 +137,14 @@
 }
 
  .search input {
+
    background-color: var(--shadow-light);
    outline: none;
    border: none;
    border-radius: 20px;
    padding: 1em;
    color: var(--grey-1);
-   font-size: 00.8em;
+   font-size: .8em;
    text-align: center;
 
  }
